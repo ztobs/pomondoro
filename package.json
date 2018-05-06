@@ -10,6 +10,7 @@
     "iconUrl": "http://icons.iconarchive.com/icons/artbees/paradise-fruits/512/Tomato-icon.png"
   },
   "dependencies": {
-    "react-native": "exponentjs/react-native"
+    "react-native": "exponentjs/react-native",
+    "react-native-drawer-layout": "^0.2.1"
   }
 }
