@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "description": "A Pomodoro timer!",
   "main": "main.js",
-  "author": "brentvatne@gmail.com",
+  "author": "ztobscieng@gmail.com",
   "exp": {
     "name": "Pomodorexp",
     "primaryColor": "#9D3131",
     "iconUrl": "http://icons.iconarchive.com/icons/artbees/paradise-fruits/512/Tomato-icon.png"
   },
   "dependencies": {
-    "react-native": "exponentjs/react-native#2015-11-13"
+    "react-native": "exponentjs/react-native"
   }
 }
