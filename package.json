@@ -1,0 +1,10 @@
+{
+  "name": "pomodoro",
+  "version": "0.0.0",
+  "description": "A Pomodoro timer!",
+  "main": "main.js",
+  "author": "ztobscieng@gmail.com",
+  "dependencies": {
+    "react-native": "exponentjs/react-native"
+  }
+}
