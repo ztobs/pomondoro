@@ -10,7 +10,7 @@
     "iconUrl": "https://s3.amazonaws.com/pomodoro-exp/icon.png"
   },
   "dependencies": {
-    "react-native": "exponentjs/react-native",
+    "react-native": "github:exponentjs/react-native",
     "react-native-drawer-layout": "iodine/react-native-drawer-layout#b9008691"
   }
 }
